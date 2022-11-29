@@ -1,1 +1,1 @@
-My first readme
+Hello world, Its alx day zero
